@@ -13,12 +13,6 @@ architectural design pattern is used together with an internal based SQL databas
 User has an ability to choose between three different languages: English, Turkish. With the help
 of `cookies`the application remembers which language was used during the last visit of the user.
  
-![alt text](RealEstate/Content/Screenshots/HomePage.png "Home Page")
-
-![alt text](RealEstate/Content/Screenshots/SearchForProjects.png "Search for Projects")
-
-![alt text](RealEstate/Content/Screenshots/ProjectExample.png "Project Example")
-
 ## Technologies used
 
 + .Net
